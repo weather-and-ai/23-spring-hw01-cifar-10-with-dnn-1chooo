@@ -1,1 +1,2 @@
-# 23-spring-hw01-cifar-10-with-dnn-1chooo
+# [AP4064 Weather and Artificial Intelligence II] 23 Spring HW01: CIFAR-10 with DNN (1chooo)
+
