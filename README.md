@@ -1,6 +1,6 @@
 # [AP4064 Weather and Artificial Intelligence II] 23 Spring HW01: CIFAR-10 with DNN (1chooo)
 
-> AP4063 - Weather and Artificial Intelligence Ⅰ Midterm
+> AP4063 - Weather and Artificial Intelligence ⅠⅠ Homework 1
 > 
 > Year: 2023 Spring   
 > Lecturer: Che-Wei Chou (周哲維)   
