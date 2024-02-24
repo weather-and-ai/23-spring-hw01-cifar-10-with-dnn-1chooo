@@ -25,7 +25,10 @@ Cifar10 資料即包含 6 萬筆 32*32 低解析度之彩色圖片，其中 5 �
 |   6   |   frog   |   7   |   horse    |
 |   8   |   ship   |   9   |   truck    |
 
-請在 keras 中利用 DNN 盡你所能的訓練模型，並報告最好的一次結果，本次作業禁止使用 pre-training model，課堂上未提及的方法請附加說明。
+請在 keras 中利用 DNN 盡你所能的訓練模型，並報告最好的一次結果。
+
+> [!WARNING]
+> 本次作業禁止使用 pre-training model，課堂上未提及的方法請附加說明。
 
 ```python
 import Keras
