@@ -34,3 +34,40 @@ Cifar10 資料即包含 6 萬筆 32*32 低解析度之彩色圖片，其中 5 �
 import Keras
 from Keras.datasets import cifar10
 ```
+
+
+---
+
+## Build Developing Environment
+
+### On MacOS/Linux
+
+```bash
+# Create virtual environment
+$ python3.11 -m venv venv
+
+# Activate virtual environment
+$ source venv/bin/activate
+
+# Install dependencies
+$ python3 -m pip install -r requirements.txt
+
+# Deactivate virtual environment after use
+$ deactivate
+```
+
+### On Windows
+
+```bash
+# Create virtual environment
+$ python3.11 -m venv venv
+
+# Activate virtual environment
+$ .\venv\Scripts\Activate
+
+# Install dependencies
+$ python3 -m pip install -r requirements.txt
+
+# Deactivate virtual environment after use
+$ deactivate
+```
